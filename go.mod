@@ -1,1 +1,1 @@
-module github.com/bwangelme/testmod
+module github.com/bwangelme/testmod/v2
