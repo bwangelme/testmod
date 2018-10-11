@@ -2,7 +2,7 @@ Go mod Demo
 ===========
 
 + [Introduction to Go Modules](https://roberto.selbach.ca/intro-to-go-modules/)
-
++ [使用这个仓库的Demo](https://github.com/bwangelme/testmod_demo)
 
 ## 版本号的说明
 
